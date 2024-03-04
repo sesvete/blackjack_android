@@ -15,10 +15,6 @@ import com.android.volley.VolleyError;
 
 import java.util.ArrayList;
 
-// TODO: end of game procedures
-// TODO: use strings.xml file
-// TODO: fix README
-
 public class GameActivity extends AppCompatActivity {
     private int id, playerPoints;
     private RecyclerView recyclerDealerHand, recyclerPlayerHand;

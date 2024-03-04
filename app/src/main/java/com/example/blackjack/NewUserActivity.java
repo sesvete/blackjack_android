@@ -13,10 +13,6 @@ import android.widget.Toast;
 import com.bumptech.glide.Glide;
 
 
-// TODO: watch imageview tutorial
-
-// TODO: fix theme
-
 public class NewUserActivity extends AppCompatActivity {
 
     private Button btnCreate, btnBack;

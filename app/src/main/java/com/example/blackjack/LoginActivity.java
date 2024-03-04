@@ -18,8 +18,6 @@ import java.util.ArrayList;
 // playing card dimensions height: 89mm, width 64mm
 // 1:1,391
 
-// TODO: FIX THEME
-
 public class LoginActivity extends AppCompatActivity {
 
     private Button btnNewUser;
